@@ -1,0 +1,8 @@
+.cat {
+    display: inline-block;
+}
+#name {
+    display: inline-block;
+    vertical-align: top;
+}
+
